@@ -1,3 +1,3 @@
-module gitlab.rebrainme.com/golang_users_repos/3144/gopackages/utils
+module github.com/AlLevykin/gopackages
 
 go 1.17

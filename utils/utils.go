@@ -1,4 +1,4 @@
-package gopackages
+package utils
 
 func Contains(a []string, x string) bool {
 	for _, n := range a {

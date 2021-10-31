@@ -9,6 +9,7 @@ func InSlice(a []string, x string) bool {
 	return false
 }
 
+// InSliceInt V3
 func InSliceInt(a []int, x int) bool {
 	for _, n := range a {
 		if x == n {
